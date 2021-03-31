@@ -1,0 +1,1 @@
+(function(t,r,i,p){i=t.createElement(r);i.src="https://www.tripadvisor.fr/WidgetEmbed-restaurantWidgetGreen?locationId=5540010&display_version=2&uniq=5&icon=knifeAndFork&lang=fr";i.async=true;p=t.getElementsByTagName(r)[0];p.parentNode.insertBefore(i,p)})(document,"script");
